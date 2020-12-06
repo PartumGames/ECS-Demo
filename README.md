@@ -1,9 +1,12 @@
 # ECS Demo
 
 
-This is a version of my Entity Component System that I use in my Monogame Engine, that is powering my game. You can watch the Devlogs here. 
+This is a version of my Entity Component System that I use in my Monogame Engine, that is powering my game.
+
+Video: Link: https://youtu.be/5FsmL3OvsAY
 
 I would recommend watching the video -here- that shows me building the ECS from the ground up. It offers more information then you will get from this repo, and further explanation of design choices.
+
 
 
 _Note: The project was created in Visual Studio 2017 using Monogame version 3.6._
